@@ -1,8 +1,25 @@
 ---
 layout: page
 title: Sobre
-permalink: /sobre/
+permalink: /about/
 ---
+
+<!-- Set custom CSS style-->
+<style>
+    img#shadow {
+        filter: drop-shadow(0px 0px 5px #222); 
+        margin: 5px 5px 5px 5px;
+    }
+
+    div#center {
+        text-align: center;
+    }
+</style>
+
+<!-- Ednaldo Logo Image -->
+<div id = "center" >
+    <img id="shadow" src="../images/about/ednaldo_logo.png">
+</div>
 
 Ednaldo Pereira: Mescladasso é um videogame lançado em 2020 baseado na Experiência Musical de Ednaldo Pereira. O jogo apresenta uma história original em que Ednaldo Pereira e seu amigo Fleig O Baixista defendem o universo de uma invasão de robôs criada pela Elite Preta.
 
@@ -15,7 +32,7 @@ Todas as versões do jogo compartilham o mesmo enredo básico. Dentro do Laborat
 ### Ednaldo Pereira
 > "What is the brother?
 > Uma fraternidade
-> Vamos procurar viver em igualdade." - Ednaldo Pereira na música 'What is the Brother'.
+> Vamos procurar viver em igualdade." **- Ednaldo Pereira na música 'What is the Brother'.**
 
 Ednaldo Pereira é o protagonista dessa grandiosa aventura. Um camarada de bom coração idolatrado por quase toda humanidade pelas suas atitudes e atrativas canções.
 
