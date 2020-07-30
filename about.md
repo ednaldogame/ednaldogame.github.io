@@ -53,3 +53,9 @@ O companheiro de Ednaldo, Fleig (O baixista) é um cara inteligente e criativo q
 </div>
 
 Matter é um burguês safado, dono da Elite Preta. Ele e seu exército de robôs planejam dominar o planeta Terra e acabar com a carreira de Ednaldo Pereira. É sua obrigação parar com os planos dele!
+
+## A Equipe
+**Feito por:**
+PVic, Gabriel Casanova, Gregório (GArriada), Bitto, Fchar,  Mushrill, Miller Productions, YeikoSonicArt, Starbomber4 & Guilhdo.
+
+*Agradecimentos especiais à Fleig e a Elite Branca.*
