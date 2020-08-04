@@ -16,19 +16,12 @@ permalink: /download/
     }
 </style>
 
-**🇧🇷  Clique na imagem abaixo para começar o download!**
+**PT: Clique na imagem abaixo para começar o download!**
 
-**🇬🇧 Click on the image below to start the download!**
+**EN: Click on the image below to start the download!**
 
 <!-- Download link image -->
 <div id = "center" >
+    <!-- Insert download link here!.. -->
     <a href="http://www.google.com/"> <img id="shadow" src="../images/download.png"> </a>
 </div>
-
-## 🇧🇷  Como instalar sua atualização:
-
-A fazer.
-
-### 🇬🇧 How to install your update:
-
-To-do.
