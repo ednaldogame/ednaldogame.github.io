@@ -4,10 +4,6 @@ title: Download
 permalink: /download/
 ---
 
-**🇧🇷  Clique na imagem abaixo para começar o download!**
-
-**🇬🇧 Click on the image below to start the download!**
-
 <!-- Set custom CSS style-->
 <style>
     img#shadow {
@@ -20,9 +16,13 @@ permalink: /download/
     }
 </style>
 
+**🇧🇷  Clique na imagem abaixo para começar o download!**
+
+**🇬🇧 Click on the image below to start the download!**
+
 <!-- Download link image -->
 <div id = "center" >
-    <a href="http://www.google.com"> <img id="shadow" src="../images/download.png"> </a>
+    <a href="http://www.google.com/"> <img id="shadow" src="../images/download.png"> </a>
 </div>
 
 ## 🇧🇷  Como instalar sua atualização:
