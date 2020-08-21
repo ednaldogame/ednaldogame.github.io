@@ -23,5 +23,5 @@ permalink: /download/
 <!-- Download link image -->
 <div id = "center" >
     <!-- Insert download link here!.. -->
-    <a href="http://www.google.com/"> <img id="shadow" src="../images/download.png"> </a>
+    <a href="https://github.com/ednaldogame/game/releases/download/0.0.1/game.zip"> <img id="shadow" src="../images/download.png"> </a>
 </div>
