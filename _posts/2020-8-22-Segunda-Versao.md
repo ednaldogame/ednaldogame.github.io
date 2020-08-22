@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Versão 0.2 Lançada / Version 0.1 released!
+title: Versão 0.2 Lançada / Version 0.2 released!
 ---
 
 A versão 0.2 do jogo Ednaldo Pereira Mescladasso foi lançada.
